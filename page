@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<html>
+  <style>
+body {
+  background-color: #FFE4C4;
+}
+</style>
+
+<main>
+
+<h1 style="font-family:Lobster; color:#A52A2A">My personal page</h1>
+<h2 style="color:black; font-family:Monaco;">Krystal</h2>
+<p>Here is my <a href="https://vk.com/boudicca">vk page</a>.</p>
+<p> <img scr="http://cdn1.gardenhomeandparty.com/ghp/files/2010/10/Peony-sunset.jpg" alt="this is a peony"> 
+</p>
+
+</main> 
+</html>
